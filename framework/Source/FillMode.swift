@@ -13,6 +13,7 @@ import Glibc
 #endif
 #endif
 
+import Foundation
 
 public enum FillMode {
     case stretch
